@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @abdmosh2000
-- 👀 I’m interested in Computer sciences in general and web development In particular
-- 🌱 I’m currently learning php , js 
-- I can find the idea and the solution with the development of skills, everything is easy
-- 💞️ I’m looking to collaborate on Improve my programming capabilities
-- 📫 How to reach me whatsapp:972594559353, linkedin :https://www.linkedin.com/in/abdallah-shalat-1b9180222/
+ 																																That's my sign,
+have a keen eye for design and a passion for creating intuitive, efficient user experiences. I take pride in writing clean, well-documented code that is easy to maintain and scale. Whether you need a complete website redesign, a new feature implemented, or ongoing maintenance and support, I'm here to help. I'm committed to delivering high-quality work on time and on budget, and I'm always available to answer your questions and provide updates. If you're looking for a reliable frontend developer who can bring your vision to life, please don't hesitate to get in touch. I'd love to hear from you and discuss how I can help you achieve your goals.
 
-My youtube channel :https://www.youtube.com/channel/UC7EiXF6kNX-FyLf5Zv-yR1A
-<!---
-abdmosh2000/abdmosh2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My skills include:
+
+🗸 HTML5, CSS3, and JavaScript
+🗸 React,
+🗸 Bootstrap, Materialize, and other CSS frameworks
+🗸 Responsive design and cross-browser compatibility
+🗸 Git, npm, and other development tools
